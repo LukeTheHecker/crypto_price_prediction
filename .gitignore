@@ -1,0 +1,17 @@
+*.pkl
+*.ipynb
+*.log
+*.h5
+*.json
+*.vscode
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
+*.py[cod]
+*.csv
+/data
+/logs
+/checkpoint
+/assets
+
+*config.py
